@@ -42,12 +42,12 @@ Predict the result in real-time
 
 Project Structure:
 OverthinkingAI/
-│── data.csv           # Dataset
-│── model.py           # Model training script
-│── app.py             # Streamlit app
-│── model.pkl          # Saved trained model
-│── vectorizer.pkl     # Saved TF-IDF vectorizer
-│── README.md          # Project documentation
+│── data.csv           
+│── model.py           
+│── app.py             
+│── model.pkl          
+│── vectorizer.pkl    
+│── README.md         
 
 
 Installation & Setup:
